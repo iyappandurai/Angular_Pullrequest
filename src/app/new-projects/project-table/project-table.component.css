@@ -1,0 +1,23 @@
+table {
+    margin: auto;
+    width: 87%;
+}
+
+.actions {
+    text-align: center;
+    margin: 1rem;
+}
+
+th, td {
+    padding: 1rem;
+}
+.container{
+    margin: 5% 0px;
+}
+
+th.mat-header-cell {
+    color: #f58611 !important;
+}
+td.mat-cell {
+    color: #91d128 !important; 
+}

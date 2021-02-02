@@ -1,0 +1,22 @@
+
+
+.tp-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+   
+ }
+ .tp-section {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    height: 60px;
+    font-size: 25px;
+padding: 10px;
+display: block;  
+ }
+ a:hover{
+     color: rgba(2, 65, 46, 0);
+ }
