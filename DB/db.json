@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "StarRECON",
+      "startDate": "2020-11-22T18:30:00.000Z",
+      "endDate": "2020-11-23T18:30:00.000Z",
+      "epics": [
+        {
+          "name": "Test1",
+          "priority": "PR",
+          "isSave": "Yes"
+        },
+        {
+          "name": "Test 2",
+          "priority": "PN",
+          "isSave": "Yes"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "EzLink",
+      "startDate": "2020-11-24T18:30:00.000Z",
+      "endDate": "2020-11-29T18:30:00.000Z",
+      "epics": [
+        {
+          "name": "TTT",
+          "priority": "CD",
+          "isSave": "Yes"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "CardMAN",
+      "startDate": "2020-10-31T18:30:00.000Z",
+      "endDate": "2020-11-29T18:30:00.000Z",
+      "epics": []
+    },
+    {
+      "id": 4,
+      "title": "PrePaid",
+      "startDate": "2020-11-23T18:30:00.000Z",
+      "endDate": "2020-11-25T18:30:00.000Z",
+      "epics": []
+    }
+  ]
+}
